@@ -1,6 +1,6 @@
 @font-face {
   font-family: potraFont;
-  src: url("/assets/fonts/Potra.ttf");
+  src: url("../assets/fonts/Potra.ttf");
 }
 
 #coins a {
